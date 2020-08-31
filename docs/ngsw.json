@@ -1,0 +1,96 @@
+{
+  "configVersion": 1,
+  "timestamp": 1598839942171,
+  "index": "/demo-basket/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/demo-basket/favicon.ico",
+        "/demo-basket/index.html",
+        "/demo-basket/main.7cd44f0718b965699f0a.js",
+        "/demo-basket/manifest.webmanifest",
+        "/demo-basket/polyfills.a4021de53358bb0fec14.js",
+        "/demo-basket/runtime.e227d1a0e31cbccbf8ec.js",
+        "/demo-basket/styles.83f5f736f9a0fe21b891.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/demo-basket/assets/icons/icon-128x128.png",
+        "/demo-basket/assets/icons/icon-144x144.png",
+        "/demo-basket/assets/icons/icon-152x152.png",
+        "/demo-basket/assets/icons/icon-192x192.png",
+        "/demo-basket/assets/icons/icon-384x384.png",
+        "/demo-basket/assets/icons/icon-512x512.png",
+        "/demo-basket/assets/icons/icon-72x72.png",
+        "/demo-basket/assets/icons/icon-96x96.png",
+        "/demo-basket/assets/img/basketball-floor.jpg",
+        "/demo-basket/assets/img/basketball-floor.png",
+        "/demo-basket/assets/img/logo_blanco.png",
+        "/demo-basket/assets/img/p1.jpg",
+        "/demo-basket/assets/img/p2.jpg",
+        "/demo-basket/assets/img/p3.jpg",
+        "/demo-basket/assets/img/p4.jpg",
+        "/demo-basket/assets/img/p5.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/demo-basket/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/demo-basket/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/demo-basket/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/demo-basket/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/demo-basket/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/demo-basket/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/demo-basket/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/demo-basket/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/demo-basket/assets/img/basketball-floor.jpg": "0e177bca5c81cc586a304c66e04ab6e38e6d01c3",
+    "/demo-basket/assets/img/basketball-floor.png": "f226687523170d9fdf7c57d6207d4779d1bde7f4",
+    "/demo-basket/assets/img/logo_blanco.png": "7e2cfeb642e790ce23d2783fb9f797431bc87d16",
+    "/demo-basket/assets/img/p1.jpg": "6d0a1a0e19f42f6af7ef7467fc9d15eb573335c4",
+    "/demo-basket/assets/img/p2.jpg": "48001ff04308cfda951c11db67c9d092ad66272a",
+    "/demo-basket/assets/img/p3.jpg": "d370b2ede941420f1db6a6a7f7ddcba55119cfbd",
+    "/demo-basket/assets/img/p4.jpg": "d1437a606a420af76cf1d0f9e7a335330a483e9b",
+    "/demo-basket/assets/img/p5.jpg": "1e454b4c72b8bfbaf6de88831df7e380c5e8f29a",
+    "/demo-basket/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/demo-basket/index.html": "93330c1db837dae4b5d1e2927d49db28f6fa9ba9",
+    "/demo-basket/main.7cd44f0718b965699f0a.js": "1c0ef2546bab76cb6327042af0d65de0b3cf58fe",
+    "/demo-basket/manifest.webmanifest": "000fcf0d044ca40170e6f381dd01620b8a306c33",
+    "/demo-basket/polyfills.a4021de53358bb0fec14.js": "b47435a9ef2a4829f2f9dfd35599bde3614981b1",
+    "/demo-basket/runtime.e227d1a0e31cbccbf8ec.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/demo-basket/styles.83f5f736f9a0fe21b891.css": "02ec838d9d37d4884797fec91b0811aa084084c9"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
