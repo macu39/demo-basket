@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1598839942171,
+  "timestamp": 1598841043607,
   "index": "/demo-basket/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/demo-basket/favicon.ico",
         "/demo-basket/index.html",
-        "/demo-basket/main.7cd44f0718b965699f0a.js",
+        "/demo-basket/main.504c4274a34756f4c41c.js",
         "/demo-basket/manifest.webmanifest",
         "/demo-basket/polyfills.a4021de53358bb0fec14.js",
         "/demo-basket/runtime.e227d1a0e31cbccbf8ec.js",
@@ -68,8 +68,8 @@
     "/demo-basket/assets/img/p4.jpg": "d1437a606a420af76cf1d0f9e7a335330a483e9b",
     "/demo-basket/assets/img/p5.jpg": "1e454b4c72b8bfbaf6de88831df7e380c5e8f29a",
     "/demo-basket/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/demo-basket/index.html": "93330c1db837dae4b5d1e2927d49db28f6fa9ba9",
-    "/demo-basket/main.7cd44f0718b965699f0a.js": "1c0ef2546bab76cb6327042af0d65de0b3cf58fe",
+    "/demo-basket/index.html": "c961a62ea63ee017b278bab954d74352a02709d9",
+    "/demo-basket/main.504c4274a34756f4c41c.js": "9386a758fce28a088d52f1df98fb8129d0f943d1",
     "/demo-basket/manifest.webmanifest": "000fcf0d044ca40170e6f381dd01620b8a306c33",
     "/demo-basket/polyfills.a4021de53358bb0fec14.js": "b47435a9ef2a4829f2f9dfd35599bde3614981b1",
     "/demo-basket/runtime.e227d1a0e31cbccbf8ec.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
